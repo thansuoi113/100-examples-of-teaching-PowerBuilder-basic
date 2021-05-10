@@ -1,0 +1,8 @@
+Save Format v3.0(19990112)
+@begin Unchecked
+@end;
+@begin Targets
+ 0 "dde_app_hot.pbt";
+@end;
+DefaultTarget "dde_app_hot.pbt";
+DefaultRemoteTarget "dde_app_hot.pbt";

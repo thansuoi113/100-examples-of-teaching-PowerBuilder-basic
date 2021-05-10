@@ -1,0 +1,8 @@
+Save Format v3.0(19990112)
+@begin Unchecked
+@end;
+@begin Targets
+ 0 "app_systray.pbt";
+@end;
+DefaultTarget "app_systray.pbt";
+DefaultRemoteTarget "app_systray.pbt";
