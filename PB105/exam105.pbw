@@ -41,7 +41,7 @@ Save Format v3.0(19990112)
  63 "66-Using User Objects Make Group Buttons\\button_set.pbt";
  73 "76-User Events Without Event ID\\datawindow_event.pbt";
  83 "87-Graph Control\\graphic.pbt";
- 93 "97-Building a Web Site and Web Homepage\\ProductWeb.pbt";
+ 93 "99-Department and Personnel Management System\\employee.pbt";
  4 "5-Drag Icon\\app.pbt";
  14 "15-StopWatch\\app.pbt";
  24 "25-Hyperlink Button\\app.pbt";
@@ -51,7 +51,7 @@ Save Format v3.0(19990112)
  64 "67-Standard Class User Objects\\standard_class.pbt";
  74 "78-Calculate Relative Time\\relativedatetime.pbt";
  84 "88-Graph Control With DataWindow\\app.pbt";
- 94 "98-Simple web application\\Product_Web.pbt";
+ 94 "100-Inventory Management System\\app.pbt";
  5 "6-User Password Authentication\\app.pbt";
  15 "16-Guess Number\\guess.pbt";
  25 "27-Create Windows And Menus\\app.pbt";
@@ -61,7 +61,6 @@ Save Format v3.0(19990112)
  65 "68-Calculation Data Table Specific Data\\price_cacl.pbt";
  75 "79-Custom Events And Functions User Objects\\picbutton.pbt";
  85 "89-Splash Window\\splash.pbt";
- 95 "99-Department and Personnel Management System\\employee.pbt";
  6 "7-Flash Text\\app.pbt";
  16 "17-Electronic Clock\\app.pbt";
  26 "28-Graphic Menu\\app.pbt";
@@ -71,7 +70,6 @@ Save Format v3.0(19990112)
  66 "69-Multi Threading Count Process\\multithread.pbt";
  76 "80-Use OLE Control to Play Multimedia Files\\multimedia.pbt";
  86 "90-Taskbar Icon\\app_systray.pbt";
- 96 "100-Inventory Management System\\app.pbt";
  7 "8-Screen Saver\\app.pbt";
  17 "18-Number Use And Time Limit\\app.pbt";
  27 "29-MDI Window With Base Map\\app.pbt";
@@ -100,5 +98,5 @@ Save Format v3.0(19990112)
  79 "83-TreeView Control\\treeview.pbt";
  89 "93-Get Host IP Address\\ip.pbt";
 @end;
-DefaultTarget "36-Notepad\\file.pbt";
-DefaultRemoteTarget "36-Notepad\\file.pbt";
+DefaultTarget "57-Save Data To Word\\app.pbt";
+DefaultRemoteTarget "57-Save Data To Word\\app.pbt";
